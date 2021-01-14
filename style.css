@@ -1,0 +1,57 @@
+
+header{
+    background-color: #f6f5f1;
+}
+
+ul li{
+    padding: 0 20px;
+    font-weight: bold;
+}
+
+
+
+
+
+.card img{
+   
+    width: 320px;
+    height: 340px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #e8e8e8;
+    border-radius: 20px;
+    padding-top: 5px;       
+}
+h1{
+    font-size: 50px !important;
+    font-family: 'Poppins', sans-serif;
+    color: #d3a203;
+    letter-spacing: -4px;    
+} 
+h5{
+    font-weight: bolder !important;
+    color: #183f52;
+}
+
+
+button{
+    float: right;
+    
+    background-color: black;
+}
+h3{
+    float: left;
+    color: #f07c1d;
+    font-size: 40px !important;
+}
+p{
+    font-size: 1rem;
+    color: #495464;
+    font-family: 'Roboto', sans-serif;
+    
+}
+section{
+    margin-bottom: 100px;
+    
+}
+
