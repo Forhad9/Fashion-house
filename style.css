@@ -1,17 +1,12 @@
 
 header{
-    background-color: #f6f5f1;
+    background-color: #f6f5f1;    
 }
 
 ul li{
     padding: 0 20px;
     font-weight: bold;
 }
-
-
-
-
-
 .card img{
    
     width: 320px;
@@ -32,6 +27,11 @@ h5{
     font-weight: bolder !important;
     color: #183f52;
 }
+h3{
+    float: left;
+    color: #f07c1d;
+    font-size: 40px !important;
+}
 
 
 button{
@@ -39,11 +39,7 @@ button{
     
     background-color: black;
 }
-h3{
-    float: left;
-    color: #f07c1d;
-    font-size: 40px !important;
-}
+
 p{
     font-size: 1rem;
     color: #495464;
@@ -80,6 +76,9 @@ footer p {
 @media only screen and (max-width: 500px) {
     h4 {
       text-align: center;
+    }
+    .media{
+        
     }
   }
 
