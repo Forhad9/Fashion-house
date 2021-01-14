@@ -78,7 +78,7 @@ footer p {
       text-align: center;
     }
     .media{
-        
+       display: grid;
     }
   }
 
