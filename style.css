@@ -54,4 +54,32 @@ section{
     margin-bottom: 100px;
     
 }
+footer {
+    background: #495464;
+    padding: 1%;
+    text-align: center; 
+    color: white;
+    font-family: 'Titillium Web', sans-serif; 
+}
+footer p {
+    font-size: 0.8rem;
+    line-height: 32px;
+    
+}
+.icon-style {
+    color: white;
+    background-color: rgb(30, 5, 122);
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    border-radius: 50%;
+    border: 1px solid white;
+    margin-top: 4px;
+    padding: 5px;
+}
+@media only screen and (max-width: 500px) {
+    h4 {
+      text-align: center;
+    }
+  }
 
